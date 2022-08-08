@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CadastroDeAlunos:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CadastroDeAlunos_jar</output-path>
+    <root id="archive" name="CadastroDeAlunos.jar">
+      <element id="module-output" name="CadastroDeAlunos" />
+    </root>
+  </artifact>
+</component>
